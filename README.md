@@ -1,5 +1,12 @@
 # WebPConverter-Images-and-Videos-
 Webp converter (Images and Videos)
+
+## Download
+
+### [⬇️ Download WebPConverter 1.0.0 Setup](https://github.com/JavierReinoso2/WebPConverter-Images-and-Videos-/releases/download/v1.0.0/WebPConverter-Images-and-Videos_Setup.exe)
+
+Or go to the [Releases](https://github.com/JavierReinoso2/WebPConverter-Images-and-Videos-/releases) page.
+
 IMPORTANT NOTE:
 
 SOME ANTIVIRUS SOFTWARE MAY FLAG THIS PROGRAM 
